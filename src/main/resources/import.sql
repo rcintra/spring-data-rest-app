@@ -1,0 +1,3 @@
+insert into Book (id, title, description) values (1, 'Spring Boot in Action', 'You''ll roll up your sleeves and build a secure database-backed web app step by step');
+insert into Book (id, title, description) values (2, 'Spring 5 Recipes', 'Book description. Solve all your Spring 5 problems using complete ');
+insert into Book (id, title, description) values (3, 'Pro Spring Boot', 'Pro Spring Boot is your authoritative hands-on practical guide for');
